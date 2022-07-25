@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abner Casteliano.
+- 👋 Hi, I’m @abnercasteliano
 - 👀 I’m interested in Data Analysis, and Data Science.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning projects.
